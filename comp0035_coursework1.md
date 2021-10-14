@@ -2,8 +2,8 @@
 
 ## Technical information
 ### Repository URL
-Please add the URL to your repository below, then delete this instruction text.
-[Repository]()
+
+[Repository](https://github.com/MarcoLonardo/ucl-comp0035-comp0035_cw1_2021-22.git)
 
 ### Set-up instructions
 
